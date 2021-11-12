@@ -1,4 +1,4 @@
-package com.njgibbon.localstacksprings3poc;
+package com.njgibbon.localstacksprings3poc.app;
 
 import java.util.Arrays;
 
